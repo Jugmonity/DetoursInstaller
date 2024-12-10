@@ -1,6 +1,6 @@
 Name "DetoursInstaller"
 OutFile "DetInstaller.exe"
-!include "MUI.nsh"
+!include "MUI2.nsh"
 !insertmacro MUI_PAGE_WELCOME
 !insertmacro MUI_PAGE_LICENSE "MIT.txt"
 !insertmacro MUI_PAGE_INSTFILES
